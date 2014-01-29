@@ -1,9 +1,3 @@
-'''
-Created on 2014年1月28日
-
-@author: xwzhu
-'''
-
 import os
 import re
 
